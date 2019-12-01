@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/BiLSTM.model-4"
+all_model_checkpoint_paths: "/content/BiLSTM.model-0"
+all_model_checkpoint_paths: "/content/BiLSTM.model-1"
+all_model_checkpoint_paths: "/content/BiLSTM.model-2"
+all_model_checkpoint_paths: "/content/BiLSTM.model-3"
+all_model_checkpoint_paths: "/content/BiLSTM.model-4"
